@@ -1,8 +1,12 @@
 {
-  "name": "pdf-image",
-  "version": "0.0.1",
+  "name": "puncha-pdf-image",
+  "version": "1.0.0",
+  "repository": "https://github.com/puncha/node-pdf-image.git",
   "dependencies": {
     "es6-promise": "~2.0.0",
     "chai": "~1.9.2"
-  }
+  },
+  "author": "PunCha Feng",
+  "license": "BSD",
+  "main": "index.js"
 }
